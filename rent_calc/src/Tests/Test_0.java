@@ -16,7 +16,7 @@ class Test_0 {
 		
 		//test1
 		t0 = new RentCalc(10,20,30,40,50,50,40,30,20,10);
-		 
+		  
 		assertEquals(500, t0.total_houseGas);
 		assertEquals(800, t0.total_houseHeating);
 		assertEquals(900, t0.total_hotWater);
