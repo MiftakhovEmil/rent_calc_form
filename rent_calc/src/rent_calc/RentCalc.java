@@ -34,7 +34,7 @@ public class RentCalc
 		 V_hotWater = V_hot;
 		 V_coldWater = V_cold;
 		 V_houseElectricity = V_electr;
-	
+	 
 		 Calc();
 	 }
 	 void Calc() //расчет кварплаты
