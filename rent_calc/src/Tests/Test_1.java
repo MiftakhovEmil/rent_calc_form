@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 import rent_calc.RentCalc;
 
 class Test_1 {
-
+ 
 	@Test
 	void test() {
 		RentCalc t0; 
